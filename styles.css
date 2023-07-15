@@ -1,7 +1,7 @@
 body {
 
     background-color: #f0f0f0;
-    background-image: url("Img/BackGround.jpg");
+    background-image: url("../Img/BackGround.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     margin: 0;
