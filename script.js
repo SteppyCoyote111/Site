@@ -14,7 +14,7 @@ headElement.appendChild(iconElement);
 
 // Create a link element for WhatsApp and set the attributes
 var whatsappLinkElement = document.createElement('a');
-whatsappLinkElement.setAttribute('href', 'https://api.whatsapp.com/send?phone=+79180346539');
+whatsappLinkElement.setAttribute('href', 'https://api.whatsapp.com/send?phone=79180346539');
 whatsappLinkElement.setAttribute('target', '_blank');
 
 // Set the text or image for the WhatsApp link
