@@ -18,7 +18,7 @@ var whatsappLinkElement = document.createElement('a');
 whatsappLinkElement.setAttribute('target', '_blank');
 
 // Set the text or image for the WhatsApp link
-whatsappLinkElement.textContent = 'WhatsApp';
+//whatsappLinkElement.textContent = 'WhatsApp';
 
 // Append the WhatsApp link to the body section of the document
 var bodyElement = document.querySelector('body');
